@@ -50,3 +50,17 @@ body{
     overflow: hidden;
     transition: all 1s;
 }
+.clear-btn{
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin: 1rem;
+    background-color: #fff;
+    color: #0084e9;
+    font-size: large;
+    cursor: pointer;
+}
+.clear-btn:hover{
+    background-color: rgb(13, 20, 47);
+    color: white;
+}
